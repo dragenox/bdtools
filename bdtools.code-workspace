@@ -5,6 +5,9 @@
 		},
 		{
 			"path": "../bdsetup"
+		},
+		{
+			"path": "../bdfetch"
 		}
 	],
 	"settings": {}
