@@ -1,3 +1,6 @@
 [submodule "bdfetch"]
 	path = bdfetch
 	url = https://github.com/dragenox/bdfetch
+[submodule "bdsetup"]
+	path = bdsetup
+	url = https://github.com/dragenox/bdsetup
