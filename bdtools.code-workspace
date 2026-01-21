@@ -4,10 +4,10 @@
 			"path": "."
 		},
 		{
-			"path": "../bdsetup"
+			"path": "bdsetup"
 		},
 		{
-			"path": "../bdfetch"
+			"path": "bdfetch"
 		}
 	],
 	"settings": {}
