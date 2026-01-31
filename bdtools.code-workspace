@@ -8,6 +8,9 @@
 		},
 		{
 			"path": "bdfetch"
+		},
+		{
+			"path": "../bdsync"
 		}
 	],
 	"settings": {}
